@@ -12,6 +12,7 @@ int sum(int n){ /*Ex 1*/
 }
 
 int pairSum(int a, int b){
+    
     return a + b;
 }
 
